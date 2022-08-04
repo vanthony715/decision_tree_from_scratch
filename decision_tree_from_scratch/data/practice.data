@@ -1,0 +1,10 @@
+﻿m,0,cheap,low,bus
+m,1,cheap,med,bus
+f,1,cheap,med,train
+f,0,cheap,low,bus
+m,1,cheap,med,bus
+m,0,standard,med,train
+f,1,standard,med,train
+f,1,expensive,high,car
+m,2,expensive,med,car
+f,2,expensive,high,car

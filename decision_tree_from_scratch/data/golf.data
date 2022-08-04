@@ -1,0 +1,14 @@
+﻿s,h,high,weak,n
+s,h,high,strong,n
+o,h,high,weak,y
+r,m,high,weak,y
+r,c,norm,weak,y
+r,c,norm,strong,n
+o,c,norm,strong,y
+s,m,high,weak,n
+s,c,norm,weak,y
+r,m,norm,weak,y
+s,m,norm,strong,y
+o,m,high,strong,y
+o,h,norm,weak,y
+r,m,high,strong,n

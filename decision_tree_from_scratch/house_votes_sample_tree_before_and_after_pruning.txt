@@ -1,0 +1,369 @@
+Dataset:  house-votes-84
+Train mode:  classification
+Train set size: 148
+Test set size: 37
+
+******************** ML Pipeline Started ********************
+LoadCsvData Initialized
+Preprocess data initialized
+Split Data Initialized
+Prune Depth:  11
+
+Train/Test Set:  0
+
+**********************************************************
+**********************************************************
+Before Pruning
+**********************************************************
+**********************************************************
+
+------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+
+**********************************************************
+**********************************************************
+After Pruning
+**********************************************************
+**********************************************************
+
+------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+  parent:   crime_13 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   physician_fee_freeze_3 branch:   0.0   leaf:   2
+  parent:   export_act_s_africa_15 branch:   0.0   leaf:   2
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   synfuels_cutback_10 branch:   0.0   leaf:   4
+  parent:   duty_free_exports_14 branch:   1.0   leaf:   4
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   water_project_cost_sharing_1 branch:   1.0   leaf:   2
+  parent:   adoption_of_budget_resolution_2 branch:   1.0   leaf:   2
+  parent:   religious_groups_in_schools_5 branch:   1.0   leaf:   2
+  parent:   nicaraguan_aid_7 branch:   0.0   leaf:   2
+  parent:   immigration_9 branch:   0.0   leaf:   2
+  parent:   education_spending_11 branch:   1.0   leaf:   2
+
+

@@ -1,0 +1,2018 @@
+Train mode:  regression
+
+******************** ML Pipeline Started ********************
+LoadCsvData Initialized
+Preprocess data initialized
+Encoded Column:  sex
+Split Data Initialized
+
+Train/Test Set:  0
+
+Truth:  0.331
+Prediction:  0.08
+
+Truth:  1.882
+Prediction:  0.265
+
+Truth:  -0.29
+Prediction:  -0.138
+
+Truth:  0.021
+Prediction:  0.08
+
+Truth:  0.331
+Prediction:  -0.422
+
+Truth:  -1.53
+Prediction:  -1.027
+
+Truth:  0.021
+Prediction:  1.019
+
+Truth:  -0.29
+Prediction:  0.508
+
+Truth:  -1.22
+Prediction:  -1.133
+
+Truth:  0.331
+Prediction:  0.265
+
+Truth:  0.021
+Prediction:  -0.62
+
+Truth:  -0.91
+Prediction:  -0.698
+
+Truth:  0.021
+Prediction:  1.032
+
+Truth:  0.951
+Prediction:  -0.277
+
+Truth:  -0.29
+Prediction:  -0.247
+
+Truth:  1.882
+Prediction:  0.428
+
+Truth:  0.641
+Prediction:  0.367
+
+Truth:  -0.91
+Prediction:  -0.839
+
+Truth:  -0.6
+Prediction:  -0.309
+
+Truth:  0.021
+Prediction:  -0.91
+
+Truth:  0.021
+Prediction:  0.82
+
+Truth:  -1.22
+Prediction:  -0.309
+
+Truth:  -0.29
+Prediction:  0.168
+
+Truth:  -1.53
+Prediction:  -1.008
+
+Truth:  0.021
+Prediction:  0.141
+
+Truth:  -1.53
+Prediction:  -1.603
+
+Truth:  1.572
+Prediction:  -0.247
+
+Truth:  1.882
+Prediction:  0.267
+
+Truth:  0.021
+Prediction:  0.808
+
+Truth:  2.812
+Prediction:  0.82
+
+Truth:  0.021
+Prediction:  -0.247
+
+Truth:  -0.6
+Prediction:  -0.247
+
+Truth:  0.641
+Prediction:  -0.505
+
+Truth:  0.641
+Prediction:  0.314
+
+Truth:  0.641
+Prediction:  -0.153
+
+Truth:  0.021
+Prediction:  0.669
+
+Truth:  1.572
+Prediction:  0.669
+
+Truth:  0.331
+Prediction:  0.008
+
+Truth:  0.021
+Prediction:  -0.169
+
+Truth:  -0.6
+Prediction:  -0.309
+
+Truth:  0.641
+Prediction:  0.699
+
+Truth:  0.331
+Prediction:  1.482
+
+Truth:  -0.29
+Prediction:  0.432
+
+Truth:  -0.29
+Prediction:  0.267
+
+Truth:  0.021
+Prediction:  0.267
+
+Truth:  2.192
+Prediction:  0.301
+
+Truth:  0.951
+Prediction:  -0.074
+
+Truth:  1.261
+Prediction:  -0.247
+
+Truth:  -0.6
+Prediction:  -0.169
+
+Truth:  -1.22
+Prediction:  -0.62
+
+Truth:  2.192
+Prediction:  0.141
+
+Truth:  -0.91
+Prediction:  -0.333
+
+Truth:  -1.53
+Prediction:  -0.971
+
+Truth:  -0.6
+Prediction:  0.808
+
+Truth:  0.641
+Prediction:  -0.368
+
+Truth:  0.331
+Prediction:  0.595
+
+Truth:  0.951
+Prediction:  -0.069
+
+Truth:  1.261
+Prediction:  0.141
+
+Truth:  -0.91
+Prediction:  -1.043
+
+Truth:  -0.29
+Prediction:  -0.368
+
+Truth:  0.641
+Prediction:  -0.24
+
+Truth:  2.192
+Prediction:  -0.138
+
+Truth:  0.021
+Prediction:  0.267
+
+Truth:  -0.29
+Prediction:  -0.271
+
+Truth:  0.641
+Prediction:  -0.62
+
+Truth:  -0.29
+Prediction:  0.314
+
+Truth:  0.331
+Prediction:  0.267
+
+Truth:  1.261
+Prediction:  0.789
+
+Truth:  -0.6
+Prediction:  0.808
+
+Truth:  -0.91
+Prediction:  -0.774
+
+Truth:  2.192
+Prediction:  1.521
+
+Truth:  -0.6
+Prediction:  -0.169
+
+Truth:  -0.29
+Prediction:  -0.379
+
+Truth:  -0.91
+Prediction:  -0.24
+
+Truth:  -0.6
+Prediction:  0.314
+
+Truth:  1.572
+Prediction:  0.008
+
+Truth:  -0.29
+Prediction:  0.299
+
+Truth:  3.743
+Prediction:  0.789
+
+Truth:  0.021
+Prediction:  0.008
+
+Truth:  0.021
+Prediction:  0.051
+
+Truth:  -0.91
+Prediction:  -1.008
+
+Truth:  -0.91
+Prediction:  -0.277
+
+Truth:  0.951
+Prediction:  0.314
+
+Truth:  -1.22
+Prediction:  -0.69
+
+Truth:  2.812
+Prediction:  0.699
+
+Truth:  -0.29
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  0.314
+
+Truth:  0.021
+Prediction:  -0.368
+
+Truth:  0.641
+Prediction:  -0.069
+
+Truth:  -0.29
+Prediction:  -0.368
+
+Truth:  -0.6
+Prediction:  -0.91
+
+Truth:  -0.29
+Prediction:  0.141
+
+Truth:  -1.22
+Prediction:  -1.066
+
+Truth:  -0.6
+Prediction:  0.428
+
+Truth:  2.502
+Prediction:  0.624
+
+Truth:  0.331
+Prediction:  0.82
+
+Truth:  -1.22
+Prediction:  -0.782
+
+Truth:  -0.29
+Prediction:  -0.798
+
+Truth:  -0.6
+Prediction:  -0.839
+
+Truth:  -0.6
+Prediction:  -0.169
+
+Truth:  0.641
+Prediction:  0.82
+
+Truth:  -0.6
+Prediction:  -1.029
+
+Truth:  2.502
+Prediction:  0.141
+
+Truth:  -0.29
+Prediction:  -0.505
+
+Truth:  -0.91
+Prediction:  -0.24
+
+Truth:  -0.29
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  0.428
+
+Truth:  -0.29
+Prediction:  -0.153
+
+Truth:  0.641
+Prediction:  0.508
+
+Truth:  1.261
+Prediction:  0.624
+
+Truth:  0.021
+Prediction:  0.699
+
+Truth:  0.331
+Prediction:  0.267
+
+Truth:  0.331
+Prediction:  0.367
+
+Truth:  0.331
+Prediction:  0.051
+
+Truth:  -0.91
+Prediction:  -0.333
+
+Truth:  -0.6
+Prediction:  -0.415
+
+Truth:  -0.29
+Prediction:  -0.333
+
+Truth:  -0.6
+Prediction:  0.051
+
+Truth:  -0.91
+Prediction:  -1.066
+
+Truth:  1.261
+Prediction:  -0.069
+
+Truth:  0.331
+Prediction:  0.595
+
+Truth:  -0.91
+Prediction:  -1.066
+
+Truth:  -0.29
+Prediction:  -0.62
+
+Truth:  -0.6
+Prediction:  0.099
+
+Truth:  -1.22
+Prediction:  -0.309
+
+Truth:  0.641
+Prediction:  0.299
+
+Truth:  0.331
+Prediction:  0.789
+
+Truth:  0.021
+Prediction:  0.141
+
+Truth:  0.021
+Prediction:  0.008
+
+Truth:  -0.29
+Prediction:  0.39
+
+Truth:  -0.91
+Prediction:  -0.963
+
+Truth:  0.641
+Prediction:  -0.422
+
+Truth:  -0.91
+Prediction:  -0.839
+
+Truth:  0.021
+Prediction:  -0.368
+
+Truth:  0.331
+Prediction:  0.168
+
+Truth:  1.261
+Prediction:  1.019
+
+Truth:  -0.91
+Prediction:  -0.333
+
+Truth:  -0.6
+Prediction:  -0.368
+
+Truth:  2.502
+Prediction:  0.141
+
+Truth:  3.433
+Prediction:  0.267
+
+Truth:  -0.6
+Prediction:  -0.153
+
+Truth:  -1.22
+Prediction:  -0.672
+
+Truth:  -1.53
+Prediction:  -1.94
+
+Truth:  0.021
+Prediction:  0.39
+
+Truth:  0.641
+Prediction:  0.808
+
+Truth:  -0.29
+Prediction:  0.314
+
+Truth:  0.021
+Prediction:  -0.064
+
+Truth:  -0.29
+Prediction:  0.299
+
+Truth:  -0.29
+Prediction:  -0.247
+
+Truth:  -0.6
+Prediction:  0.808
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  4.363
+Prediction:  0.868
+
+Truth:  0.021
+Prediction:  0.299
+
+Truth:  1.261
+Prediction:  0.299
+
+Truth:  -1.22
+Prediction:  -1.029
+
+Truth:  0.641
+Prediction:  -0.368
+
+Truth:  -1.53
+Prediction:  -1.508
+
+Truth:  -0.29
+Prediction:  -0.368
+
+Truth:  0.021
+Prediction:  -0.415
+
+Truth:  0.641
+Prediction:  0.624
+
+Truth:  0.331
+Prediction:  0.508
+
+Truth:  0.641
+Prediction:  2.192
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  -0.29
+Prediction:  -0.153
+
+Truth:  -0.6
+Prediction:  1.019
+
+Truth:  -0.29
+Prediction:  -0.368
+
+Truth:  1.572
+Prediction:  0.267
+
+Truth:  0.331
+Prediction:  0.789
+
+Truth:  0.021
+Prediction:  0.508
+
+Truth:  -1.22
+Prediction:  -0.277
+
+Truth:  0.331
+Prediction:  0.669
+
+Truth:  0.951
+Prediction:  -0.368
+
+Truth:  -1.22
+Prediction:  -1.603
+
+Truth:  0.331
+Prediction:  0.699
+
+Truth:  0.951
+Prediction:  0.789
+
+Truth:  0.331
+Prediction:  -0.492
+
+Truth:  0.021
+Prediction:  0.152
+
+Truth:  -0.29
+Prediction:  -0.271
+
+Truth:  2.192
+Prediction:  -0.247
+
+Truth:  0.331
+Prediction:  -0.368
+
+Truth:  0.021
+Prediction:  1.521
+
+Truth:  -0.6
+Prediction:  -1.563
+
+Truth:  -1.841
+Prediction:  -1.841
+
+Truth:  -0.6
+Prediction:  -0.277
+
+Truth:  -0.29
+Prediction:  1.019
+
+Truth:  -0.91
+Prediction:  -0.963
+
+Truth:  0.021
+Prediction:  0.789
+
+Truth:  0.641
+Prediction:  0.868
+
+Truth:  -0.29
+Prediction:  0.508
+
+Truth:  -0.29
+Prediction:  0.168
+
+Truth:  -0.29
+Prediction:  0.39
+
+Truth:  0.021
+Prediction:  0.508
+
+Truth:  -1.22
+Prediction:  -0.774
+
+Truth:  0.331
+Prediction:  0.123
+
+Truth:  -0.91
+Prediction:  -1.27
+
+Truth:  0.951
+Prediction:  0.789
+
+Truth:  0.331
+Prediction:  0.428
+
+Truth:  -1.22
+Prediction:  -0.63
+
+Truth:  -0.91
+Prediction:  -0.839
+
+Truth:  -0.6
+Prediction:  0.099
+
+Truth:  0.641
+Prediction:  0.152
+
+Truth:  -1.22
+Prediction:  -1.008
+
+Truth:  -0.29
+Prediction:  -0.24
+
+Truth:  0.021
+Prediction:  0.299
+
+Truth:  0.021
+Prediction:  1.019
+
+Truth:  0.021
+Prediction:  -0.492
+
+Truth:  0.951
+Prediction:  0.265
+
+Truth:  -0.91
+Prediction:  -0.672
+
+Truth:  -0.6
+Prediction:  0.299
+
+Truth:  0.331
+Prediction:  1.105
+
+Truth:  0.331
+Prediction:  0.267
+
+Truth:  0.021
+Prediction:  1.019
+
+Truth:  0.331
+Prediction:  0.641
+
+Truth:  -1.22
+Prediction:  -0.971
+
+Truth:  0.021
+Prediction:  -0.153
+
+Truth:  -1.22
+Prediction:  -0.672
+
+Truth:  0.641
+Prediction:  0.051
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  -0.29
+Prediction:  -0.505
+
+Truth:  2.192
+Prediction:  1.019
+
+Truth:  0.331
+Prediction:  0.168
+
+Truth:  0.021
+Prediction:  0.141
+
+Truth:  -0.6
+Prediction:  -0.074
+
+Truth:  0.331
+Prediction:  1.032
+
+Truth:  -0.29
+Prediction:  0.008
+
+Truth:  -0.29
+Prediction:  -0.271
+
+Truth:  0.021
+Prediction:  0.008
+
+Truth:  0.951
+Prediction:  0.441
+
+Truth:  0.021
+Prediction:  0.508
+
+Truth:  -0.29
+Prediction:  -0.309
+
+Truth:  -1.22
+Prediction:  -1.128
+
+Truth:  2.502
+Prediction:  1.019
+
+Truth:  0.021
+Prediction:  0.141
+
+Truth:  -0.29
+Prediction:  0.008
+
+Truth:  -0.29
+Prediction:  0.699
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  -1.22
+Prediction:  -0.724
+
+Truth:  -1.22
+Prediction:  -0.839
+
+Truth:  -1.53
+Prediction:  -1.027
+
+Truth:  -0.6
+Prediction:  -0.971
+
+Truth:  -0.29
+Prediction:  1.019
+
+Truth:  0.021
+Prediction:  -0.69
+
+Truth:  0.641
+Prediction:  -0.368
+
+Truth:  -0.29
+Prediction:  -0.505
+
+Truth:  -0.29
+Prediction:  -0.169
+
+Truth:  0.641
+Prediction:  -0.069
+
+Truth:  0.951
+Prediction:  0.799
+
+Truth:  -0.29
+Prediction:  0.267
+
+Truth:  -0.6
+Prediction:  1.019
+
+Truth:  -0.6
+Prediction:  -0.169
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  -1.53
+Prediction:  -0.63
+
+Truth:  0.021
+Prediction:  -1.001
+
+Truth:  2.502
+Prediction:  0.669
+
+Truth:  -1.53
+Prediction:  -1.133
+
+Truth:  0.641
+Prediction:  0.367
+
+Truth:  -0.91
+Prediction:  -0.774
+
+Truth:  -0.6
+Prediction:  0.441
+
+Truth:  -0.29
+Prediction:  0.301
+
+Truth:  -0.29
+Prediction:  -0.368
+
+Truth:  1.882
+Prediction:  0.669
+
+Truth:  -0.6
+Prediction:  -0.24
+
+Truth:  -0.6
+Prediction:  0.08
+
+Truth:  0.021
+Prediction:  -0.064
+
+Truth:  0.331
+Prediction:  0.123
+
+Truth:  1.572
+Prediction:  -0.074
+
+Truth:  0.641
+Prediction:  1.105
+
+Truth:  -0.91
+Prediction:  -1.128
+
+Truth:  -0.29
+Prediction:  0.141
+
+Truth:  0.951
+Prediction:  0.799
+
+Truth:  2.812
+Prediction:  0.428
+
+Truth:  -0.91
+Prediction:  0.508
+
+Truth:  2.192
+Prediction:  0.39
+
+Truth:  0.331
+Prediction:  -0.271
+
+Truth:  0.331
+Prediction:  0.789
+
+Truth:  0.331
+Prediction:  0.123
+
+Truth:  0.021
+Prediction:  0.299
+
+Truth:  0.331
+Prediction:  0.299
+
+Truth:  0.021
+Prediction:  -0.247
+
+Truth:  0.331
+Prediction:  -0.379
+
+Truth:  -0.29
+Prediction:  -0.971
+
+Truth:  0.331
+Prediction:  -0.169
+
+Truth:  -0.29
+Prediction:  -0.62
+
+Truth:  -1.53
+Prediction:  -1.22
+
+Truth:  -1.53
+Prediction:  -1.508
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  -0.6
+Prediction:  -0.798
+
+Truth:  0.331
+Prediction:  0.123
+
+Truth:  -2.151
+Prediction:  -1.841
+
+Truth:  -0.29
+Prediction:  0.508
+
+Truth:  0.951
+Prediction:  0.265
+
+Truth:  0.021
+Prediction:  0.367
+
+Truth:  2.192
+Prediction:  0.441
+
+Truth:  -0.91
+Prediction:  -0.064
+
+Truth:  -0.6
+Prediction:  0.669
+
+Truth:  2.192
+Prediction:  0.624
+
+Truth:  0.021
+Prediction:  0.367
+
+Truth:  0.331
+Prediction:  0.152
+
+Truth:  -1.22
+Prediction:  -0.839
+
+Truth:  -0.29
+Prediction:  -0.169
+
+Truth:  -0.6
+Prediction:  -0.309
+
+Truth:  -0.29
+Prediction:  0.39
+
+Truth:  -1.53
+Prediction:  -0.938
+
+Truth:  -1.841
+Prediction:  -1.841
+
+Truth:  0.021
+Prediction:  0.508
+
+Truth:  0.331
+Prediction:  0.595
+
+Truth:  0.331
+Prediction:  0.699
+
+Truth:  0.331
+Prediction:  -0.309
+
+Truth:  1.572
+Prediction:  0.699
+
+Truth:  0.641
+Prediction:  0.141
+
+Truth:  0.951
+Prediction:  0.808
+
+Truth:  0.021
+Prediction:  0.595
+
+Truth:  0.951
+Prediction:  0.08
+
+Truth:  0.021
+Prediction:  0.267
+
+Truth:  0.641
+Prediction:  1.105
+
+Truth:  0.641
+Prediction:  -0.153
+
+Truth:  0.021
+Prediction:  0.141
+
+Truth:  1.261
+Prediction:  0.099
+
+Truth:  0.331
+Prediction:  0.428
+
+Truth:  -0.6
+Prediction:  -0.169
+
+Truth:  -0.6
+Prediction:  0.301
+
+Truth:  0.021
+Prediction:  -0.91
+
+Truth:  -0.6
+Prediction:  -0.277
+
+Truth:  0.021
+Prediction:  -0.069
+
+Truth:  -0.91
+Prediction:  -1.27
+
+Truth:  -0.91
+Prediction:  -0.672
+
+Truth:  0.641
+Prediction:  0.799
+
+Truth:  -0.6
+Prediction:  -0.422
+
+Truth:  -0.29
+Prediction:  -0.271
+
+Truth:  0.021
+Prediction:  0.699
+
+Truth:  -0.6
+Prediction:  -0.379
+
+Truth:  0.331
+Prediction:  0.39
+
+Truth:  0.641
+Prediction:  0.432
+
+Truth:  0.951
+Prediction:  -0.271
+
+Truth:  1.261
+Prediction:  -0.247
+
+Truth:  -0.29
+Prediction:  -0.064
+
+Truth:  3.433
+Prediction:  0.82
+
+Truth:  0.331
+Prediction:  0.508
+
+Truth:  -0.29
+Prediction:  -0.074
+
+Truth:  0.331
+Prediction:  0.789
+
+Truth:  0.331
+Prediction:  0.299
+
+Truth:  0.641
+Prediction:  -0.069
+
+Truth:  0.951
+Prediction:  0.152
+
+Truth:  2.192
+Prediction:  0.367
+
+Truth:  -0.91
+Prediction:  -0.62
+
+Truth:  -0.29
+Prediction:  0.301
+
+Truth:  0.331
+Prediction:  0.441
+
+Truth:  0.951
+Prediction:  0.08
+
+Truth:  0.951
+Prediction:  0.141
+
+Truth:  0.331
+Prediction:  0.508
+
+Truth:  -1.22
+Prediction:  -0.672
+
+Truth:  0.331
+Prediction:  0.152
+
+Truth:  1.261
+Prediction:  0.441
+
+Truth:  2.192
+Prediction:  0.669
+
+Truth:  0.951
+Prediction:  0.441
+
+Truth:  0.021
+Prediction:  -0.064
+
+Truth:  -0.6
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  0.367
+
+Truth:  -0.91
+Prediction:  -0.62
+
+Truth:  3.123
+Prediction:  0.168
+
+Truth:  1.572
+Prediction:  0.267
+
+Truth:  -0.6
+Prediction:  0.301
+
+Truth:  0.021
+Prediction:  0.08
+
+Truth:  1.572
+Prediction:  0.267
+
+Truth:  -0.29
+Prediction:  0.008
+
+Truth:  0.331
+Prediction:  -0.667
+
+Truth:  0.641
+Prediction:  0.595
+
+Truth:  -0.29
+Prediction:  -0.333
+
+Truth:  0.021
+Prediction:  0.267
+
+Truth:  0.021
+Prediction:  0.267
+
+Truth:  -0.29
+Prediction:  -0.422
+
+Truth:  0.021
+Prediction:  2.388
+
+Truth:  0.331
+Prediction:  0.428
+
+Truth:  0.951
+Prediction:  0.08
+
+Truth:  -0.29
+Prediction:  -0.62
+
+Truth:  -1.841
+Prediction:  -1.53
+
+Truth:  0.331
+Prediction:  -0.24
+
+Truth:  -0.29
+Prediction:  -0.064
+
+Truth:  -0.29
+Prediction:  0.669
+
+Truth:  0.641
+Prediction:  -0.839
+
+Truth:  2.502
+Prediction:  -0.271
+
+Truth:  -0.91
+Prediction:  -0.505
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  0.331
+Prediction:  0.595
+
+Truth:  0.021
+Prediction:  0.799
+
+Truth:  0.641
+Prediction:  -0.064
+
+Truth:  0.641
+Prediction:  0.314
+
+Truth:  -1.22
+Prediction:  -0.69
+
+Truth:  -0.29
+Prediction:  0.051
+
+Truth:  -0.29
+Prediction:  0.508
+
+Truth:  2.192
+Prediction:  0.141
+
+Truth:  2.192
+Prediction:  0.39
+
+Truth:  0.331
+Prediction:  -0.064
+
+Truth:  0.331
+Prediction:  0.152
+
+Truth:  -0.29
+Prediction:  -0.153
+
+Truth:  0.021
+Prediction:  -0.415
+
+Truth:  -1.22
+Prediction:  0.808
+
+Truth:  2.812
+Prediction:  2.388
+
+Truth:  -0.91
+Prediction:  -0.839
+
+Truth:  -0.29
+Prediction:  0.508
+
+Truth:  1.882
+Prediction:  1.019
+
+Truth:  -0.91
+Prediction:  -1.001
+
+Truth:  0.021
+Prediction:  -0.782
+
+Truth:  -0.29
+Prediction:  0.441
+
+Truth:  0.641
+Prediction:  0.367
+
+Truth:  -0.29
+Prediction:  0.301
+
+Truth:  0.331
+Prediction:  0.441
+
+Truth:  0.021
+Prediction:  0.39
+
+Truth:  -0.91
+Prediction:  -1.066
+
+Truth:  0.331
+Prediction:  -0.277
+
+Truth:  0.021
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  0.267
+
+Truth:  -1.53
+Prediction:  -1.22
+
+Truth:  -0.29
+Prediction:  -0.074
+
+Truth:  -0.29
+Prediction:  0.08
+
+Truth:  -0.29
+Prediction:  0.868
+
+Truth:  -0.29
+Prediction:  0.099
+
+Truth:  -0.6
+Prediction:  -0.153
+
+Truth:  -0.6
+Prediction:  -0.247
+
+Truth:  0.641
+Prediction:  0.301
+
+Truth:  0.021
+Prediction:  0.624
+
+Truth:  -0.6
+Prediction:  -0.309
+
+Truth:  -1.22
+Prediction:  0.808
+
+Truth:  -0.29
+Prediction:  -0.138
+
+Truth:  -0.91
+Prediction:  -0.169
+
+Truth:  -0.29
+Prediction:  0.267
+
+Truth:  -0.91
+Prediction:  -0.798
+
+Truth:  0.021
+Prediction:  0.367
+
+Truth:  -1.841
+Prediction:  -1.22
+
+Truth:  0.021
+Prediction:  1.032
+
+Truth:  0.021
+Prediction:  -0.064
+
+Truth:  0.021
+Prediction:  0.168
+
+Truth:  -0.91
+Prediction:  0.051
+
+Truth:  -0.6
+Prediction:  -0.379
+
+Truth:  -0.6
+Prediction:  1.105
+
+Truth:  0.021
+Prediction:  -0.064
+
+Truth:  1.261
+Prediction:  -0.271
+
+Truth:  -0.29
+Prediction:  0.441
+
+Truth:  -1.22
+Prediction:  -0.938
+
+Truth:  -0.6
+Prediction:  0.267
+
+Truth:  -0.29
+Prediction:  -0.074
+
+Truth:  -0.29
+Prediction:  -0.247
+
+Truth:  -0.91
+Prediction:  -0.277
+
+Truth:  1.261
+Prediction:  0.441
+
+Truth:  0.951
+Prediction:  1.019
+
+Truth:  -0.29
+Prediction:  0.624
+
+Truth:  1.572
+Prediction:  -0.153
+
+Truth:  0.021
+Prediction:  -0.672
+
+Truth:  -0.29
+Prediction:  0.152
+
+Truth:  -0.29
+Prediction:  -1.066
+
+Truth:  -0.91
+Prediction:  -0.492
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  0.331
+Prediction:  0.301
+
+Truth:  0.331
+Prediction:  0.428
+
+Truth:  -1.22
+Prediction:  -0.422
+
+Truth:  -0.6
+Prediction:  -0.24
+
+Truth:  -0.6
+Prediction:  -0.271
+
+Truth:  0.951
+Prediction:  0.699
+
+Truth:  0.021
+Prediction:  0.267
+
+Truth:  -0.6
+Prediction:  -0.62
+
+Truth:  -0.29
+Prediction:  0.367
+
+Truth:  0.331
+Prediction:  0.267
+
+Truth:  0.021
+Prediction:  0.314
+
+Truth:  -0.91
+Prediction:  -0.153
+
+Truth:  -0.29
+Prediction:  0.301
+
+Truth:  -0.29
+Prediction:  0.595
+
+Truth:  -1.53
+Prediction:  -1.563
+
+Truth:  -1.841
+Prediction:  -2.151
+
+Truth:  -0.91
+Prediction:  0.808
+
+Truth:  0.331
+Prediction:  0.141
+
+Truth:  0.951
+Prediction:  0.789
+
+Truth:  -1.22
+Prediction:  -0.492
+
+Truth:  -0.29
+Prediction:  -0.138
+
+Truth:  1.261
+Prediction:  0.441
+
+Truth:  -0.6
+Prediction:  -0.153
+
+Truth:  -0.6
+Prediction:  -0.169
+
+Truth:  -1.22
+Prediction:  -0.774
+
+Truth:  0.021
+Prediction:  -0.074
+
+Truth:  0.331
+Prediction:  -0.169
+
+Truth:  0.331
+Prediction:  0.367
+
+Truth:  0.021
+Prediction:  -0.247
+
+Truth:  -1.22
+Prediction:  -0.333
+
+Truth:  -1.53
+Prediction:  -1.22
+
+Truth:  -0.6
+Prediction:  -0.271
+
+Truth:  -1.841
+Prediction:  -1.94
+
+Truth:  1.572
+Prediction:  -0.271
+
+Truth:  -0.91
+Prediction:  -0.971
+
+Truth:  -1.53
+Prediction:  -1.646
+
+Truth:  0.641
+Prediction:  0.669
+
+Truth:  0.951
+Prediction:  0.141
+
+Truth:  0.021
+Prediction:  0.123
+
+Truth:  0.021
+Prediction:  -0.069
+
+Truth:  -0.91
+Prediction:  -1.001
+
+Truth:  1.882
+Prediction:  0.299
+
+Truth:  0.021
+Prediction:  -0.379
+
+Truth:  0.331
+Prediction:  -0.069
+
+Truth:  0.021
+Prediction:  -0.333
+
+Truth:  -0.29
+Prediction:  -0.247
+
+Truth:  1.261
+Prediction:  -0.064
+
+Truth:  2.192
+Prediction:  1.019
+
+Truth:  1.261
+Prediction:  0.82
+
+Truth:  -0.29
+Prediction:  0.441
+
+Truth:  -1.53
+Prediction:  -1.841
+
+Truth:  2.812
+Prediction:  -0.153
+
+Truth:  -0.6
+Prediction:  -0.064
+
+Truth:  -0.29
+Prediction:  1.521
+
+Truth:  2.192
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  -0.069
+
+Truth:  -0.6
+Prediction:  0.39
+
+Truth:  -0.29
+Prediction:  -0.62
+
+Truth:  -0.91
+Prediction:  -0.63
+
+Truth:  1.261
+Prediction:  0.595
+
+Truth:  -0.29
+Prediction:  0.367
+
+Truth:  -0.29
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  0.099
+
+Truth:  -1.841
+Prediction:  -1.508
+
+Truth:  0.951
+Prediction:  0.39
+
+Truth:  0.021
+Prediction:  -0.505
+
+Truth:  2.502
+Prediction:  0.099
+
+Truth:  -1.841
+Prediction:  -1.587
+
+Truth:  0.021
+Prediction:  0.39
+
+Truth:  -0.29
+Prediction:  0.808
+
+Truth:  0.641
+Prediction:  -0.247
+
+Truth:  3.123
+Prediction:  0.428
+
+Truth:  -0.91
+Prediction:  -0.309
+
+Truth:  -1.841
+Prediction:  -1.841
+
+Truth:  -0.91
+Prediction:  -0.333
+
+Truth:  0.021
+Prediction:  0.428
+
+Truth:  -0.91
+Prediction:  -1.043
+
+Truth:  -0.6
+Prediction:  -0.492
+
+Truth:  0.021
+Prediction:  0.428
+
+Truth:  -0.29
+Prediction:  0.789
+
+Truth:  -0.91
+Prediction:  0.808
+
+Truth:  -0.91
+Prediction:  -0.064
+
+Truth:  -0.91
+Prediction:  -0.62
+
+Truth:  -1.22
+Prediction:  -0.277
+
+Truth:  -0.6
+Prediction:  -0.379
+
+Truth:  2.502
+Prediction:  0.267
+
+Truth:  -0.6
+Prediction:  0.808
+
+Truth:  -0.91
+Prediction:  -0.333
+
+Truth:  2.192
+Prediction:  0.367
+
+Truth:  0.641
+Prediction:  0.301
+
+Truth:  -1.22
+Prediction:  -0.698
+
+Truth:  -0.6
+Prediction:  -0.153
+
+Truth:  -0.91
+Prediction:  -0.492
+
+Truth:  0.021
+Prediction:  -0.505
+
+Truth:  -0.6
+Prediction:  0.08
+
+Truth:  1.261
+Prediction:  -0.309
+
+Truth:  -0.29
+Prediction:  -0.074
+
+Truth:  -0.6
+Prediction:  -0.971
+
+Truth:  -0.6
+Prediction:  0.314
+
+Truth:  -0.6
+Prediction:  1.019
+
+Truth:  0.641
+Prediction:  -0.368
+
+Truth:  0.951
+Prediction:  0.301
+
+Truth:  -1.22
+Prediction:  -1.53
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  -0.29
+Prediction:  0.141
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  0.021
+Prediction:  0.432
+
+Truth:  2.502
+Prediction:  0.508
+
+Truth:  0.951
+Prediction:  0.299
+
+Truth:  -0.29
+Prediction:  0.168
+
+Truth:  0.021
+Prediction:  0.168
+
+Truth:  1.261
+Prediction:  0.799
+
+Truth:  -0.29
+Prediction:  -0.368
+
+Truth:  0.641
+Prediction:  0.008
+
+Truth:  -0.6
+Prediction:  0.299
+
+Truth:  0.641
+Prediction:  -0.379
+
+Truth:  -1.22
+Prediction:  -0.963
+
+Truth:  0.951
+Prediction:  -0.24
+
+Truth:  0.641
+Prediction:  -0.379
+
+Truth:  0.021
+Prediction:  0.367
+
+Truth:  0.641
+Prediction:  0.508
+
+Truth:  -1.53
+Prediction:  -1.53
+
+Truth:  0.331
+Prediction:  -0.368
+
+Truth:  -0.91
+Prediction:  -1.27
+
+Truth:  -0.29
+Prediction:  -0.064
+
+Truth:  -0.6
+Prediction:  -0.698
+
+Truth:  0.021
+Prediction:  -0.069
+
+Truth:  0.641
+Prediction:  -0.422
+
+Truth:  1.261
+Prediction:  -0.379
+
+Truth:  -0.29
+Prediction:  -0.415
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  0.021
+Prediction:  0.789
+
+Truth:  -0.29
+Prediction:  0.299
+
+Truth:  0.641
+Prediction:  0.08
+
+Truth:  0.331
+Prediction:  0.168
+
+Truth:  0.951
+Prediction:  0.267
+
+Truth:  -0.91
+Prediction:  -1.066
+
+Truth:  4.363
+Prediction:  0.868
+
+Truth:  -0.29
+Prediction:  0.39
+
+Truth:  -1.841
+Prediction:  -2.151
+
+Truth:  -0.29
+Prediction:  0.099
+
+Truth:  -0.29
+Prediction:  -0.153
+
+Truth:  0.021
+Prediction:  0.299
+
+Truth:  0.331
+Prediction:  0.441
+
+Truth:  -0.91
+Prediction:  -0.422
+
+Truth:  2.812
+Prediction:  0.508
+
+Truth:  0.021
+Prediction:  0.789
+
+Truth:  0.951
+Prediction:  0.789
+
+Truth:  -0.6
+Prediction:  -0.62
+
+Truth:  0.331
+Prediction:  1.105
+
+Truth:  1.882
+Prediction:  0.39
+
+Truth:  -0.29
+Prediction:  -0.074
+
+Truth:  0.951
+Prediction:  -0.505
+
+Truth:  -0.29
+Prediction:  0.299
+
+Truth:  0.331
+Prediction:  -0.138
+
+Truth:  0.951
+Prediction:  0.314
+
+Truth:  -0.29
+Prediction:  -0.422
+
+Truth:  -1.22
+Prediction:  -0.24
+
+Truth:  -0.6
+Prediction:  0.301
+
+Truth:  -0.6
+Prediction:  -0.24
+
+Truth:  -1.22
+Prediction:  -0.169
+
+Truth:  -0.6
+Prediction:  -0.422
+
+Truth:  0.641
+Prediction:  0.367
+
+Truth:  -0.29
+Prediction:  0.099
+
+Truth:  -1.53
+Prediction:  -1.659
+
+Truth:  -1.22
+Prediction:  -0.333
+
+Truth:  -0.6
+Prediction:  0.141
+
+Truth:  0.331
+Prediction:  0.299
+
+Truth:  0.641
+Prediction:  0.367
+
+Truth:  0.021
+Prediction:  0.367
+
+Truth:  -1.53
+Prediction:  -1.27
+
+Truth:  -0.6
+Prediction:  0.051
+
+Truth:  -1.53
+Prediction:  -1.53
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  0.331
+Prediction:  0.868
+
+Truth:  -1.22
+Prediction:  -1.128
+
+Truth:  0.021
+Prediction:  0.808
+
+Truth:  1.261
+Prediction:  0.099
+
+Truth:  -1.22
+Prediction:  -0.971
+
+Truth:  -0.6
+Prediction:  -0.505
+
+Truth:  0.021
+Prediction:  0.08
+
+Truth:  0.951
+Prediction:  -0.169
+
+Truth:  0.021
+Prediction:  -0.667
+
+Truth:  1.572
+Prediction:  0.314
+
+Truth:  -0.6
+Prediction:  0.099
+
+Truth:  0.951
+Prediction:  0.441
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  0.951
+Prediction:  0.367
+
+Truth:  -0.6
+Prediction:  0.141
+
+Truth:  -0.29
+Prediction:  0.299
+
+Truth:  -0.6
+Prediction:  -0.333
+
+Truth:  0.331
+Prediction:  0.367
+
+Truth:  0.021
+Prediction:  -0.798
+
+Truth:  0.951
+Prediction:  0.123
+
+Truth:  -2.151
+Prediction:  -1.659
+
+Truth:  0.331
+Prediction:  1.105
+
+Truth:  0.021
+Prediction:  -0.505
+
+Truth:  0.021
+Prediction:  0.301
+
+Truth:  0.021
+Prediction:  -0.138
+
+Truth:  0.331
+Prediction:  0.624
+
+Truth:  1.261
+Prediction:  0.789
+
+Truth:  -0.6
+Prediction:  -0.277
+
+Truth:  0.021
+Prediction:  -0.379
+
+Truth:  0.021
+Prediction:  0.508
+
+Truth:  -1.22
+Prediction:  -1.27
+
+Truth:  0.021
+Prediction:  -0.422
+
+Truth:  -1.22
+Prediction:  -0.698
+
+Truth:  -1.841
+Prediction:  -1.563
+
+Truth:  0.641
+Prediction:  0.267
+
+Truth:  -0.6
+Prediction:  0.301
+
+Truth:  0.021
+Prediction:  0.868
+
+Truth:  -1.22
+Prediction:  -1.066
+
+Truth:  -1.22
+Prediction:  -1.27
+
+Truth:  0.331
+Prediction:  2.388
+
+Truth:  0.641
+Prediction:  -0.724
+
+******************************************
+\Mean Squared Error:  0.6974137215568869
+
+******************************************

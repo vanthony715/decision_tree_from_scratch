@@ -1,0 +1,124 @@
+Dataset:  house-votes-84
+Train mode:  classification
+Train set size: 148
+Test set size: 37
+
+******************** ML Pipeline Started ********************
+LoadCsvData Initialized
+Preprocess data initialized
+Split Data Initialized
+
+Train/Test Set:  0
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  4.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+
+Truth:  2.0
+Prediction:  2
+Accuracy:  0.5675675675675675
+Node Count Before Pruning:  117

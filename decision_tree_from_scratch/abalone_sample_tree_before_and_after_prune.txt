@@ -1,0 +1,220 @@
+Train mode:  regression
+
+******************** ML Pipeline Started ********************
+LoadCsvData Initialized
+Preprocess data initialized
+Encoded Column:  sex
+Split Data Initialized
+Early Stopping Criteria: 10 decisions per node
+
+Train/Test Set:  0
+
+**********************************************************
+**********************************************************
+Before Early Stopping
+**********************************************************
+**********************************************************
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   length_0 branch:   -0.427   leaf:   -1.22
+  parent:   length_0 branch:   0.431   leaf:   0.641
+  parent:   length_0 branch:   0.489   leaf:   0.331
+  parent:   length_0 branch:   -0.647   leaf:   -1.841
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   diameter_1 branch:   0.079   leaf:   0.301
+  parent:   diameter_1 branch:   0.03   leaf:   0.441
+  parent:   diameter_1 branch:   -0.105   leaf:   -0.415
+  parent:   diameter_1 branch:   0.005   leaf:   -0.271
+  parent:   diameter_1 branch:   -0.13   leaf:   -0.422
+  parent:   diameter_1 branch:   -0.117   leaf:   0.051
+  parent:   diameter_1 branch:   -0.228   leaf:   -0.782
+  parent:   diameter_1 branch:   -0.191   leaf:   -0.277
+  parent:   diameter_1 branch:   -0.24   leaf:   -0.667
+  parent:   diameter_1 branch:   -0.387   leaf:   -0.774
+  parent:   diameter_1 branch:   -0.203   leaf:   -0.333
+  parent:   diameter_1 branch:   -0.301   leaf:   -1.043
+  parent:   diameter_1 branch:   -0.264   leaf:   -0.839
+  parent:   diameter_1 branch:   -0.338   leaf:   -1.066
+  parent:   diameter_1 branch:   -0.252   leaf:   -0.798
+  parent:   diameter_1 branch:   -0.35   leaf:   -0.963
+  parent:   diameter_1 branch:   -0.277   leaf:   -0.91
+  parent:   diameter_1 branch:   -0.019   leaf:   0.314
+  parent:   diameter_1 branch:   -0.056   leaf:   -0.379
+  parent:   diameter_1 branch:   -0.044   leaf:   -0.153
+  parent:   diameter_1 branch:   0.042   leaf:   1.019
+  parent:   diameter_1 branch:   -0.081   leaf:   -0.505
+  parent:   diameter_1 branch:   0.066   leaf:   0.39
+  parent:   diameter_1 branch:   -0.068   leaf:   0.808
+  parent:   diameter_1 branch:   -0.314   leaf:   -0.724
+  parent:   diameter_1 branch:   -0.424   leaf:   -1.001
+  parent:   diameter_1 branch:   0.434   leaf:   1.482
+  parent:   diameter_1 branch:   0.41   leaf:   0.799
+  parent:   diameter_1 branch:   -0.583   leaf:   -1.53
+  parent:   diameter_1 branch:   -0.632   leaf:   -1.94
+  parent:   diameter_1 branch:   0.14   leaf:   -0.368
+  parent:   diameter_1 branch:   0.128   leaf:   -0.064
+  parent:   diameter_1 branch:   0.275   leaf:   0.152
+  parent:   diameter_1 branch:   0.299   leaf:   0.123
+  parent:   diameter_1 branch:   0.214   leaf:   0.595
+  parent:   diameter_1 branch:   0.25   leaf:   -0.069
+  parent:   diameter_1 branch:   0.226   leaf:   0.367
+  parent:   diameter_1 branch:   0.189   leaf:   -0.138
+  parent:   diameter_1 branch:   0.287   leaf:   0.789
+  parent:   diameter_1 branch:   0.165   leaf:   0.267
+  parent:   diameter_1 branch:   -0.546   leaf:   -1.53
+  parent:   diameter_1 branch:   -0.534   leaf:   -1.22
+  parent:   diameter_1 branch:   -0.559   leaf:   -1.508
+  parent:   diameter_1 branch:   -0.571   leaf:   -1.603
+  parent:   diameter_1 branch:   -0.032   leaf:   0.099
+  parent:   diameter_1 branch:   0.152   leaf:   0.299
+  parent:   diameter_1 branch:   0.054   leaf:   -0.074
+  parent:   diameter_1 branch:   -0.007   leaf:   0.669
+  parent:   diameter_1 branch:   0.177   leaf:   0.141
+  parent:   diameter_1 branch:   0.091   leaf:   0.168
+  parent:   diameter_1 branch:   0.116   leaf:   -0.247
+  parent:   diameter_1 branch:   0.201   leaf:   0.008
+  parent:   diameter_1 branch:   0.103   leaf:   0.508
+  parent:   diameter_1 branch:   -0.448   leaf:   -1.027
+  parent:   diameter_1 branch:   -0.473   leaf:   -1.133
+  parent:   diameter_1 branch:   0.348   leaf:   0.699
+  parent:   diameter_1 branch:   0.263   leaf:   0.428
+  parent:   diameter_1 branch:   0.397   leaf:   0.432
+  parent:   diameter_1 branch:   0.361   leaf:   2.388
+  parent:   diameter_1 branch:   -0.215   leaf:   -0.63
+  parent:   diameter_1 branch:   -0.179   leaf:   -0.492
+  parent:   diameter_1 branch:   -0.154   leaf:   -0.24
+  parent:   diameter_1 branch:   -0.743   leaf:   -1.841
+  parent:   diameter_1 branch:   -0.694   leaf:   -1.659
+  parent:   diameter_1 branch:   -0.681   leaf:   -1.968
+  parent:   diameter_1 branch:   0.312   leaf:   0.82
+  parent:   diameter_1 branch:   0.446   leaf:   0.331
+  parent:   diameter_1 branch:   -0.706   leaf:   -1.841
+  parent:   diameter_1 branch:   -0.412   leaf:   -1.128
+  parent:   diameter_1 branch:   -0.166   leaf:   -0.309
+  parent:   diameter_1 branch:   0.324   leaf:   0.868
+  parent:   diameter_1 branch:   0.385   leaf:   1.105
+  parent:   diameter_1 branch:   -0.093   leaf:   -0.62
+  parent:   diameter_1 branch:   0.238   leaf:   0.624
+  parent:   diameter_1 branch:   -0.142   leaf:   -0.169
+  parent:   diameter_1 branch:   0.471   leaf:   0.598
+  parent:   diameter_1 branch:   0.459   leaf:   1.423
+  parent:   diameter_1 branch:   0.422   leaf:   1.521
+  parent:   diameter_1 branch:   0.373   leaf:   1.032
+  parent:   diameter_1 branch:   0.336   leaf:   0.265
+  parent:   diameter_1 branch:   0.017   leaf:   0.08
+  parent:   diameter_1 branch:   -0.461   leaf:   -1.303
+  parent:   diameter_1 branch:   -0.497   leaf:   -1.563
+  parent:   diameter_1 branch:   -0.669   leaf:   -1.587
+  parent:   diameter_1 branch:   -0.657   leaf:   -1.646
+  parent:   diameter_1 branch:   -0.62   leaf:   -1.815
+  parent:   diameter_1 branch:   -0.363   leaf:   -0.69
+  parent:   diameter_1 branch:   -0.399   leaf:   -1.008
+  parent:   diameter_1 branch:   -0.375   leaf:   -0.971
+  parent:   diameter_1 branch:   -0.326   leaf:   -0.698
+  parent:   diameter_1 branch:   -0.522   leaf:   -1.22
+  parent:   diameter_1 branch:   -0.51   leaf:   -1.029
+  parent:   diameter_1 branch:   -0.485   leaf:   -0.938
+  parent:   diameter_1 branch:   0.496   leaf:   1.261
+  parent:   diameter_1 branch:   0.508   leaf:   0.641
+  parent:   diameter_1 branch:   -0.289   leaf:   -0.672
+  parent:   diameter_1 branch:   0.545   leaf:   2.192
+  parent:   diameter_1 branch:   -0.595   leaf:   -1.698
+  parent:   diameter_1 branch:   0.483   leaf:   0.951
+  parent:   diameter_1 branch:   -0.608   leaf:   -1.841
+  parent:   diameter_1 branch:   -0.436   leaf:   -1.27
+  parent:   diameter_1 branch:   -0.718   leaf:   -1.53
+  parent:   diameter_1 branch:   -0.73   leaf:   -2.151
+  parent:   diameter_1 branch:   0.594   leaf:   1.261
+  parent:   diameter_1 branch:   -0.645   leaf:   -1.841
+  parent:   diameter_1 branch:   0.52   leaf:   0.641
+  parent:   diameter_1 branch:   -0.755   leaf:   -2.151
+  parent:   diameter_1 branch:   -0.865   leaf:   -2.771
+  parent:   diameter_1 branch:   -0.779   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   height_2 branch:   -0.785   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   whole_weight_3 branch:   -0.99   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   shucked_weight_4 branch:   -0.993   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   viscera_weight_5 branch:   -0.989   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   shell_weight_6 branch:   -0.987   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   I_8 branch:   2.113   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   M_9 branch:   -1.0   leaf:   -2.151
+
+
+
+**********************************************************
+**********************************************************
+After Early Stopping
+**********************************************************
+**********************************************************
+
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   length_0 branch:   -0.427   leaf:   -1.22
+  parent:   length_0 branch:   0.431   leaf:   0.641
+  parent:   length_0 branch:   0.489   leaf:   0.331
+  parent:   length_0 branch:   -0.647   leaf:   -1.841
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   diameter_1 branch:   0.079   leaf:   0.301
+  parent:   diameter_1 branch:   0.03   leaf:   0.441
+  parent:   diameter_1 branch:   -0.105   leaf:   -0.415
+  parent:   diameter_1 branch:   0.005   leaf:   -0.271
+  parent:   diameter_1 branch:   -0.13   leaf:   -0.422
+  parent:   diameter_1 branch:   -0.117   leaf:   0.051
+  parent:   diameter_1 branch:   -0.228   leaf:   -0.782
+  parent:   diameter_1 branch:   -0.191   leaf:   -0.277
+  parent:   diameter_1 branch:   -0.24   leaf:   -0.667
+  parent:   diameter_1 branch:   -0.387   leaf:   -0.774
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   height_2 branch:   -0.785   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   whole_weight_3 branch:   -0.99   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   shucked_weight_4 branch:   -0.993   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   viscera_weight_5 branch:   -0.989   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   shell_weight_6 branch:   -0.987   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   I_8 branch:   2.113   leaf:   -2.151
+
+-------------------- T r e e --------------------
+-------------------------------------------------
+  parent:   M_9 branch:   -1.0   leaf:   -2.151
+
